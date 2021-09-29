@@ -1,0 +1,13 @@
+.headerRight__options {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 20px;
+}
+
+.headerRight__Icon {
+  font-size: 5rem;
+}
+.headerRight__options:hover {
+  color: white;
+}
